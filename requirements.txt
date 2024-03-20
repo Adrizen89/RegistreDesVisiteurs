@@ -1,0 +1,6 @@
+PyQt5
+paho-mqtt
+requests
+Flask
+win11toast
+socket
