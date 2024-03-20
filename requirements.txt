@@ -1,6 +1,6 @@
 PyQt5
-paho-mqtt
+paho-mqtt==1.5.1
 requests
 Flask
 win11toast
-socket
+python-dotenv
